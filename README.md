@@ -34,7 +34,7 @@ NVDA: 10
 PLTR: 9
 TSLA: 8
 GME: 8
-[*********************100%***********************]  1 of 1 completed
+
 Linear result :                  Real  Predictions Real Buy/Sell Predict Buy/Sell  Model test
 Date                                                                          
 2021-08-17  182.710007   184.148243          Sell             Sell           1
@@ -55,7 +55,7 @@ Decision Tree result :Date
 2021-08-18    173.729996
 Name: Prediction_close, dtype: float64
 Desicon Tree :-0.3722050011272662, r2:-5.365033328063655, mse = 128.3200223755557
-[*********************100%***********************]  1 of 1 completed
+
 Linear result :                  Real  Predictions Real Buy/Sell Predict Buy/Sell  Model test
 Date                                                                          
 2021-08-17  199.500000   206.278453          Sell             Sell           1
@@ -76,7 +76,7 @@ Decision Tree result :Date
 2021-08-18    194.580002
 Name: Prediction_close, dtype: float64
 Desicon Tree :-1.1177472969046716, r2:-3.8709854980135363, mse = 29.47723389894236
-[*********************100%***********************]  1 of 1 completed
+
 Linear result :                 Real  Predictions Real Buy/Sell Predict Buy/Sell  Model test
 Date                                                                         
 2021-08-17  24.500000    24.936312          Sell             Sell           1
@@ -97,7 +97,7 @@ Decision Tree result :Date
 2021-08-18    23.969999
 Name: Prediction_close, dtype: float64
 Desicon Tree :-0.7469181519206576, r2:-6.1655195978103485, mse = 0.5031999176026147
-[*********************100%***********************]  1 of 1 completed
+
 Linear result :                  Real  Predictions Real Buy/Sell Predict Buy/Sell  Model test
 Date                                                                          
 2021-08-17  686.169983   713.879597          Sell             Sell           1
@@ -118,7 +118,7 @@ Decision Tree result :Date
 2021-08-18    665.710022
 Name: Prediction_close, dtype: float64
 Desicon Tree :-0.6880698957115081, r2:-16.24338915078222, mse = 1804.563789844513
-[*********************100%***********************]  1 of 1 completed
+
 Linear result :                  Real  Predictions Real Buy/Sell Predict Buy/Sell  Model test
 Date                                                                          
 2021-08-17  163.929993   162.628876          Sell             Sell           1
